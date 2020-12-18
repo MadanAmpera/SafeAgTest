@@ -6,8 +6,11 @@ response for the test @ Safe Ag Systems
 The webpage is built using pure HTML, CSS and JS along with Bootstrap framework.
 
 The components that can be reused from this html are:
+
 1 nav bar
+
 2 footer
+
 3 css classes
 
 **Time taken to build this page is approximately 6hrs.**
