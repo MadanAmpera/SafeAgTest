@@ -10,6 +10,8 @@ The components that can be reused from this html are:
 2 footer
 3 css classes
 
+**Time taken to build this page is approximately 6hrs.**
+
 Attaching the screen grab of the resulting page below
 
 ![webpage result](/webpage/assets/madan-page.jpeg)
