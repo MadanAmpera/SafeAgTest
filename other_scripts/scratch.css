@@ -1,0 +1,21 @@
+.q1{
+    display: flex;
+}
+.inner-div{
+    display: flex;
+    height: 250px;
+    flex-grow: 1;
+    justify-content: space-evenly;
+}
+.text-div{
+    align-self: center;   
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: green;
+}
