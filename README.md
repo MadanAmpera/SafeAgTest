@@ -14,8 +14,8 @@ The components that can be reused from this html are:
 
 Attaching the screen grab of the resulting page below
 
-![webpage result](/webpage/assets/madan-page.jpeg)
+![webpage result](webpage/assets/madan-page.JPG)
 
 ## Accessibility report
 
-![accessibility report](/webpage/assets/accessibility-report.jpeg)
+![accessibility report](webpage/assets/accessibility-report.JPG)
